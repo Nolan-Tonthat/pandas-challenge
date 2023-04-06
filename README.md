@@ -2,7 +2,7 @@
 UCB Data Analytics Week 4 Challenge
 
 **District Summary**
-\n Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
+/n Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 Include the following:
 - Total number of unique schools
 - Total students
