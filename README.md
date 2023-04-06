@@ -1,5 +1,7 @@
 # pandas-challenge
 UCB Data Analytics Week 4 Challenge
+There was a starter code given to use as a template for this week's challenge
+
 
 **District Summary**
 
