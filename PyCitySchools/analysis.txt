@@ -1,0 +1,14 @@
+The dataset included a total of 39,170 students enrolled in 15 different schools with an overall passing rate percentage of 65.17%.
+From our calculations (found in PyCitySchools.ipynb), we found that the top 5 highest performing schools by % of students passing in 
+both reading and math were charter schools.  Conversely, we found that the bottom 5 lowest performing schools were district schools. 
+
+*As a whole, schools with large school sizes (2000-5000 kids) have the lowest percentage overall passing (58.28%) when compared to small or medium schools
+(89.88% & 90.62% respectively).  A hypothesis is that larger schools have a bigger population which results in a lower average.  Another hypothesis is that
+charter schools generally have smaller acceptance rates and/or have higher quality teaching regimens and practices.
+
+*It can be said that charter schools generally have lower total students than district schools due to any charter school in the dataset will have 
+a smaller student population when compared with any of the district schools
+
+*In terms of grades and percentage of students passing a single subject or overall,  charter schools have outperformed district schools in all categories.  Whether this
+stellar performance is attributed to school practices and how broad/focused the curriculum is or student demographic/population has yet to be determined.  Further analysis
+on different datasets is required for a better, more definitive answers to our hypotheses.
