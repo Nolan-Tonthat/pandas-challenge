@@ -44,9 +44,11 @@ Save the results in a DataFrame called "bottom_schools"
 Perform the necessary calculations to create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 **Reading Scores by Grade**
+
 Create a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 **Scores by School Spending**
+
 Create a table that breaks down school performance based on average spending ranges (per student).
 Use the code provided below to create four bins with reasonable cutoff values to group school spending.
 
@@ -71,6 +73,7 @@ Include the following metrics in the table:
 - % overall passing (the percentage of students who passed math AND reading)
 
 **Scores by School Size**
+
 Use the following code to bin the per_school_summary.
 
     size_bins = [0, 1000, 2000, 5000]
@@ -80,10 +83,12 @@ Use pd.cut on the "Total Students" column of the per_school_summary DataFrame.
 Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
 
 **Scores by School Type**
+
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 This new DataFrame should show school performance based on the "School Type".
 
 **Written Report**
+
 To receive all points, the written report presents a cohesive written analysis that:
 - Summarizes the analysis
 - Draws two correct conclusions or comparisons from the calculations
