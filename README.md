@@ -82,19 +82,3 @@ This new DataFrame should show school performance based on the "School Type".
 To receive all points, the written report presents a cohesive written analysis that:
 - Summarizes the analysis
 - Draws two correct conclusions or comparisons from the calculations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.DS.store
